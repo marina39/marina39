@@ -34,7 +34,7 @@
 📐 Eu e a matemática nos damos bem; </br>
 😵 Me diverti muito com o projeto de automação, o que me fez querer aprofundar mais no assunto e focar na área de ciência de dados; </br>
 📺 Meu hobby favorito é assistir seriados: principalmente de investigação policial e Doctor Who; </br>
-🐱🐱🐶🐱🐱 Temos em casa 1 cachorro e 4 gatos; </br>
+🐶🐱🐱🐱 Temos em casa 1 cachorro e 3 gatos; </br>
 🍫 Chocolate? Aceito!!! </br>
 </p>
 
