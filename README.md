@@ -15,31 +15,29 @@ Sou uma profissional com mente analítica e estratégica, apaixonada por transfo
 
 ---
 
-### 🚀 O que eu faço de melhor?
+### 🚀 Projetos em Destaque
 
-* **Arquitetura de Dados:** Estruturação de bancos de dados robustos (como o projeto [DB-neurokids](https://github.com/marina39/DB-neurokids)).
-* **Automação Inteligente:** Criação de scripts para otimizar horas de trabalho manual em segundos (como o [automação-dados-cnpj](https://github.com/marina39/automação-dados-cnpj)).
-* **Visão Estratégica:** Identificação de gargalos em processos e tradução de necessidades de negócio para soluções técnicas.
+* 🧠 **[DB-neurokids](https://github.com/marina39/DB-neurokids)**: Estruturação de banco de dados SQL voltado para o contexto de neurologia pediátrica.
+* 🤖 **[automação-dados-cnpj](https://github.com/marina39/automação-dados-cnpj)**: Automação em Python para coleta e processamento de dados.
 
 ---
 
-### 📊 Estatísticas de Atividade
+### 🔍 Curiosidades Pessoais
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marina39&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas" height="150" />
-</p>
-
-### 💻 Linguagens Mais Utilizadas
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marina39&theme=radical" alt="Sequência de contribuições" height="150" />
-</p>
+* 📚 **Aprendizado contínuo:** Realmente gosto de aprender coisas novas todos os dias.
+* 📐 **Exatas:** Eu e a matemática nos damos muito bem.
+* 😵 **Paixão por Automação:** Me diverti tanto com o projeto de automação que decidi focar em Ciência de Dados.
+* 📺 **Hobby:** Amo seriados, especialmente investigação policial e Doctor Who.
+* 🐶🐱 **Família Multi-espécie:** Tenho 1 cachorro e 3 gatos em casa.
+* 🍫 **Combustível:** Aceito chocolate a qualquer hora!
 
 ---
 
 ### 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+* **LinkedIn:** [Acesse meu perfil aqui](https://www.linkedin.com/in/SEU-USUARIO)
+* **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
 
-*"A inteligência sem estratégia é apenas trabalho duro. Eu prefiro os dois."*
+---
+
+> *"A inteligência sem estratégia é apenas trabalho duro. Eu prefiro os dois (e se eu puder automatizar para sobrar tempo para o café — ou chocolate! — melhor ainda! ☕🍫)"*
