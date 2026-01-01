@@ -1,54 +1,40 @@
-<h1 align="center">Olá, mundo! 👋</h1>
+# Olá, eu sou a Marina! 👋
 
-<br>
+### Racionalidade, Estratégia e Dados
 
-<h2 align="center">Bem vindos ao meu perfil!</h2>
+Sou uma profissional com mente analítica e estratégica, apaixonada por transformar grandes volumes de dados em processos eficientes. Meu foco é unir a lógica do **SQL** com o poder da **Automação** para eliminar o trabalho manual e gerar insights inteligentes.
 
-<br>
+---
 
-<h4> Estou aprendendo ciência de dados e desenvolvimento em Java e Python. Possuo conhecimento básico em Java e Python - tendo em vista que Java é uma linguagem ampla e Python já é mais prática, fico segura em dizer que "básico" é suficiente para um início. Atualmente estou focada em SQL e ansiosa para colocar os pezinhos no próximo degrau. <h4>
+### 🛠️ Minha Stack Tecnológica
 
-<br><br>
+| **Dados & Banco de Dados** | **Automação & Lógica** | **Visualização** |
+| :--- | :--- | :--- |
+| ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 
-<h3 align="center"> Linguagens, Frameworks e Ferramentas:</h3>
+---
 
-<br>
+### 🚀 O que eu faço de melhor?
 
-<p align="center">
-   <code><img title="Git" heigth="25" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>
-   <code><img title="MySQL" heigth="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-   <code><img title="Java" heigth="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-   <code><img title="Python" heigth="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-   <code><img title="Spring" heigth="25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
-   <code><img title="VSCode" heigth="25" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-   <code><img title="Eclipse" heigth="25" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></code>
-   <code><img title="Intelij" heigth="25" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
-   <code><img title="Selenium" heigth="25" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></code>
+* **Arquitetura de Dados:** Estruturação de bancos de dados robustos (como o projeto [DB-neurokids](https://github.com/marina39/DB-neurokids)).
+* **Automação Inteligente:** Criação de scripts para otimizar horas de trabalho manual em segundos (como o [automação-dados-cnpj](https://github.com/marina39/automação-dados-cnpj)).
+* **Visão Estratégica:** Identificação de gargalos em processos e tradução de necessidades de negócio para soluções técnicas.
+
+---
+
+### 📊 Estatísticas de Atividade
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marina39&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina39&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
-<br><br>
+---
 
-<p> <h3> Curiosidades pessoais: </h3>
+### 📫 Vamos conversar?
 
-📚 Eu realmente gosto de aprender coisas novas; </br>
-📐 Eu e a matemática nos damos bem; </br>
-😵 Me diverti muito com o projeto de automação, o que me fez querer aprofundar mais no assunto e focar na área de ciência de dados; </br>
-📺 Meu hobby favorito é assistir seriados: principalmente de investigação policial e Doctor Who; </br>
-🐶🐱🐱🐱 Temos em casa 1 cachorro e 3 gatos; </br>
-🍫 Chocolate? Aceito!!! </br>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
-<br><br>
-
-<h3 align="center">Onde me encontrar:</h3>
-
-<p align="center">
-  <code>
-  <a href="https://www.linkedin.com/in/marina-amaral-gontijo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </code>
-
-
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+*"A inteligência sem estratégia é apenas trabalho duro. Eu prefiro os dois."*
