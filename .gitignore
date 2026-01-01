@@ -1,0 +1,21 @@
+# Pastas de ambiente virtual (essencial ignorar para não subir milhares de arquivos inúteis)
+venv/
+env/
+.env
+
+# Arquivos temporários de Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema e editores
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dados sensíveis ou arquivos pesados
+*.csv
+*.xlsx
+secrets.json
+
+# Versões antigas
+READM1.md
